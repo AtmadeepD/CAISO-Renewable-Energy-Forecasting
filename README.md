@@ -50,9 +50,17 @@ This project presents an end-to-end time series analysis and forecasting pipelin
 - **RMSE**: Root Mean Squared Error
 - Visual comparison of predicted vs actual
 
-### ✅ Installation
+
 
 Clone the repository and install dependencies:
+
+
+🙋‍♂️ Author
+Atmadeep Dey
+💼 Business Analyst → Aspiring Data Scientist
+GitHub: github.com/AtmadeepD
+
+### ✅ Installation
 
 ```bash
 git clone https://github.com/yourusername/CAISO-Renewable-Energy-Forecasting.git
